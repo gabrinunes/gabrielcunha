@@ -3,7 +3,7 @@
 
 # Hi, eu sou o Gabriel 
 
-Sou bacharel em Ciência da Computação e amante das tecnologias Web e mobile,e more em Belém/PA
+Sou bacharel em Ciência da Computação e amante das tecnologias Web e mobile,é moro em Belém/PA
 
 - 🌱 Eu estou atualmente estudando: JavaScript, Node, React e React Native
 -  ⚡ Linguagens: JavaScript,Java
