@@ -6,6 +6,12 @@
 
 Sou bacharel em Ciência da Computação e amante das tecnologias Web e mobile,é moro em Belém/PA
 
+
+![Gabriel Cunha github stats](https://github-readme-stats.vercel.app/api?username=gabrinunes&count_private=true&show_icons=true&theme=dark&hide=stars)
+
+![Gabriel Cunha TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrinunes&layout=compact)
+
 - 🌱 Eu estou atualmente estudando: JavaScript, Node, React e React Native
+- 💻 &nbsp; Minha stack atual: Node.js, ReactJS, React Native & Typescript.
 -  ⚡ Linguagens: JavaScript,Java
 
