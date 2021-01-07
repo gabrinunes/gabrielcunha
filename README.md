@@ -11,7 +11,7 @@ Sou bacharel em Ciência da Computação e amante das tecnologias Web e mobile,�
 
 ![Gabriel Cunha TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrinunes&layout=compact)
 
-- 🌱 Eu estou atualmente estudando: JavaScript, Node, React e React Native
+- 🌱 Eu estou atualmente estudando: JavaScript, Node, React e React Native,Flutter
 - 💻 &nbsp; Minha stack atual: Node.js, ReactJS, React Native & Typescript.
--  ⚡ Linguagens: JavaScript,Java
+-  ⚡ Linguagens: JavaScript,Java,Flutter
 
